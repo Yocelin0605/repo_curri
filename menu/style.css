@@ -5,6 +5,10 @@
 body {font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   padding: 90px 20px 0;
 
+  background-image: url(astronauta.gif);
+  background-position: center;
+  background-size: cover;
+
 }
 
 .header{background-color: blueviolet;
@@ -73,7 +77,7 @@ list-style: none;
 .btn{
   background-color:yellow;
   border:none;
-  color:black;
+  color:white;
   padding: 12px 16px ;
   font-size: 16px;
   cursor:pointer;
@@ -246,7 +250,7 @@ line-height: 60px;
 .toggle {
  background-color: #29A70D;
  border: none;
- color: black;
+ color: white;
  padding: 12px 16px;
  font-size: 16px;
  cursor: pointer;
